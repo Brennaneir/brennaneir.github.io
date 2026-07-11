@@ -7,7 +7,7 @@ tags:
   - Blog 1
   - Sample
   - example
-image: /images/robot.png
+image: \images\robot.png
 description: ""
 toc: 
 ---
