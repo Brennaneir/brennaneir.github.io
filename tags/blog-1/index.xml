@@ -20,5 +20,12 @@
 				<guid>https://brennaneir.github.io/blogs/blog1/</guid>
 				<description>&lt;p&gt;An Implication of Ethical Complication&lt;/p&gt;&#xA;&lt;p&gt;Aristotle&amp;rsquo;s Nicomachean Ethic states that moral behaviour is between 2 extremes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Excess (using all available data, without ethical concern)&lt;/li&gt;&#xA;&lt;li&gt;Deficiency (not using any data at all)&#xA;Both of these extremes pose significant drawbacks, the former (excess) being unethical and risking any and all privacy of data. The latter (deficiency) being so cautious as to not gather data at all prevents any form of progress and innovation.&#xA;This is where a concept known as the ethics equilibrium comes into play, a balance between the two extremes so as to foster growth while protecting the data privacy of everyone involved.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;An Ethical Conundrum&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Blog 2</title>
+				<link>https://brennaneir.github.io/blogs/blog-2/</link>
+				<pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+				<guid>https://brennaneir.github.io/blogs/blog-2/</guid>
+				<description>&lt;p&gt;Teaching a robot not to steal&lt;/p&gt;&#xA;&lt;p&gt;Today we will be examining the issue of generative A.I stealing art from established digital artists, you may view A.I as a technological mind to rival that of the human mind, artificial intelligence has &amp;ldquo;intelligence&amp;rdquo; baked right into the name after all, and to better understand that, and the current state of A.I and also to explain how/why A.I is stealing art from digital artists we must first understand 2 key types of artificial intelligence systems, how they work, and why they do what they do.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
